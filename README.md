@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am [Kleber](https://klebergc.github.io/)! 😁
 
 <!--
 **KleberGc/klebergc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hola, mi nombre es Rashmi Jadhav y soy estudiante de ingenbiería en la [Universidad Politécnica Salesiana] (https://www.ups.edu.ec/en/home) con especialización en Ciencias de la Computación. Soy un desarrollador de software en potencia con dos de experiencia trabajando como ingeniero de software en un negocio propio. Mi pila de lenguajes en conocimeinto son: Java, Maven, MySQL y HTML/CSS. Además de la programación, tengo un inmenso interés por la música y el deporte.
+
+- 🔭 Actualmente estoy investigando en la intersección del aprendizaje autónomo en [Udemy](https://www.udemy.com)
+- 💬 Lluvia de ideas conmigo sobre tecnología, algoritmos, mi carrera y música
+- 📫 Cómo contactarme: klebergonzalezib@gmail.com - kgonzalezc4@est.ups.edu.ec
+- 😄 Pronombres: Programador/Él/Él/Sus - He/Him
+- ⚡ Dato curioso: Amo las galletas
+- 📝 [Resume]([https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf](https://klebergc.github.io/media/Kleber%20González%20-%20CV.pdf))
