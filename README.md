@@ -20,7 +20,7 @@ Hola, mi nombre es Rashmi Jadhav y soy estudiante de ingenbiería en la [Univers
 - 🔭 Actualmente estoy investigando en la intersección del aprendizaje autónomo en [Udemy](https://www.udemy.com)
 - 💬 Lluvia de ideas conmigo sobre tecnología, algoritmos, mi carrera y música
 - 📫 Cómo contactarme: klebergonzalezib@gmail.com - kgonzalezc4@est.ups.edu.ec
-- 😄 Pronombres: Programador/Él/Él/Sus - He/Him
+- 😄 Pronombres: Programador/ Él/ Él/ Sus - He/Him
 - ⚡ Dato curioso: Amo las galletas
 - 📝 [Resume](https://klebergc.github.io/media/Kleber%20González%20-%20CV.pdf)
 
