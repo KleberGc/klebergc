@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hola, mi nombre es Rashmi Jadhav y soy estudiante de ingenbiería en la [Universidad Politécnica Salesiana] (https://www.ups.edu.ec/en/home) con especialización en Ciencias de la Computación. Soy un desarrollador de software en potencia con dos de experiencia trabajando como ingeniero de software en un negocio propio. Mi pila de lenguajes en conocimeinto son: Java, Maven, MySQL y HTML/CSS. Además de la programación, tengo un inmenso interés por la música y el deporte.
+Hola, mi nombre es Rashmi Jadhav y soy estudiante de ingenbiería en la [Universidad Politécnica Salesiana](https://www.ups.edu.ec/en/home) con especialización en Ciencias de la Computación. Soy un desarrollador de software en potencia con dos de experiencia trabajando como ingeniero de software en un negocio propio. Mi pila de lenguajes en conocimeinto son: Java, Maven, MySQL y HTML/CSS. Además de la programación, tengo un inmenso interés por la música y el deporte.
 
 - 🔭 Actualmente estoy investigando en la intersección del aprendizaje autónomo en [Udemy](https://www.udemy.com)
 - 💬 Lluvia de ideas conmigo sobre tecnología, algoritmos, mi carrera y música
