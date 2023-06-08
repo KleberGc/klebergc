@@ -22,4 +22,12 @@ Hola, mi nombre es Rashmi Jadhav y soy estudiante de ingenbiería en la [Univers
 - 📫 Cómo contactarme: klebergonzalezib@gmail.com - kgonzalezc4@est.ups.edu.ec
 - 😄 Pronombres: Programador/Él/Él/Sus - He/Him
 - ⚡ Dato curioso: Amo las galletas
-- 📝 [Resume]([https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf](https://klebergc.github.io/media/Kleber%20González%20-%20CV.pdf))
+- 📝 [Resume]([https://klebergc.github.io/media/Kleber%20González%20-%20CV.pdf])
+
+**Languages and Tools:**
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
